@@ -1,3 +1,4 @@
+#文件操作
 with open('pi.txt') as file_object:
     lines = file_object.readlines()
     pi_string = ''

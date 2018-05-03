@@ -1,3 +1,4 @@
+#存储数据
 import json
 
 filename = 'num.json'

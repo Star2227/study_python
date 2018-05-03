@@ -1,3 +1,4 @@
+#简单的类
 class Car():
 
     def __init__(self, make, model, year):
